@@ -1,0 +1,17 @@
+1. Booking
+    a.Select number of seats
+    b.Select dates
+    c.List available flight options
+    d.Accept
+    e.Credentials
+
+
+2.Cancelation
+    a.Enter flight id
+    b.Enter temporary password
+
+
+3.Exit
+
+tpyt maspari qka po don me bo, 1, 2 a 3
+
